@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kururus
-- 👀 I’m interested in Drogs
-- 🌱 I’m currently learning farm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Dogs
+- 🌱 I’m currently learning Dogs
+- 💞️ I’m looking to collaborate on Dogs
+- 📫 How to reach me Dogs
 
 <!---
 Kururus/Kururus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
